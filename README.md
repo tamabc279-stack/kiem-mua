@@ -45,7 +45,7 @@ Luật lấy đúng như app gốc, xem docstring đầu tệp. Có mấy chỗ 
 EMA10 và Supertrend của biểu đồ dùng `job/trend.py`, chép nguyên từ `candle-radar/job/trend.py`. Nếu sửa thì phải sửa ở cả hai nơi.
 
 ## GitHub
-- Repo `phongthietke-lgtm/kiem-mua` (công khai). Pages: `https://phongthietke-lgtm.github.io/kiem-mua/`, lấy từ nhánh `main`, thư mục `/docs`.
+- Repo `tamabc279-stack/kiem-mua` (công khai; chuyển từ `phongthietke-lgtm/kiem-mua` 15/10/2026 vì lịch GitHub bên đó trễ ~5 giờ). Pages: `https://tamabc279-stack.github.io/kiem-mua/`, lấy từ nhánh `main`, thư mục `/docs`.
 - Máy này đẩy code qua tài khoản collaborator `deptlink2025-bctc` (Git Credential Manager), bằng lệnh `git push origin master:main`.
 
 **Thông báo điện thoại: chưa làm (để sau).** Chưa làm thì job chấm bình thường, chỉ không gửi gì; `state.json` sẽ ghi "Thiếu VAPID". Khi làm:
