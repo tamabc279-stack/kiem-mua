@@ -1,0 +1,289 @@
+{
+ "trade_date": "2026-10-16",
+ "generated_at": "2026-10-16T19:11:07+07:00",
+ "sources": {
+  "kingstock": {
+   "ok": true,
+   "date": "2026-10-16",
+   "stale": null,
+   "error": null
+  },
+  "ssc": {
+   "ok": true,
+   "date": "2026-10-16",
+   "stale": null,
+   "error": null
+  },
+  "candle": {
+   "ok": true,
+   "date": "2026-10-15",
+   "stale": "Nguồn mới có phiên 15/10",
+   "error": null
+  },
+  "pricepath": {
+   "ok": true,
+   "date": "2026-10-16",
+   "stale": null,
+   "error": null
+  },
+  "wyckoff": {
+   "ok": true,
+   "date": "2026-10-16",
+   "stale": null,
+   "error": null
+  },
+  "orderflow": {
+   "ok": true,
+   "date": "2026-10-16",
+   "stale": null,
+   "error": null
+  }
+ },
+ "alerts": [
+  {
+   "sym": "ACB",
+   "date": "2026-10-16",
+   "at": "2026-10-16T09:18:19.582731",
+   "k": 24.4,
+   "d": 19.3,
+   "price": 20.65,
+   "confirmed": true
+  }
+ ],
+ "scores": {
+  "ACB": {
+   "pass": 5,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|oxxxxo|x|oxxoox"
+  },
+  "AGR": {
+   "pass": 4,
+   "total": 14,
+   "warn": 0,
+   "code": "o|---|ooxxxx|x|xxxxxo"
+  },
+  "BID": {
+   "pass": 5,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxooox|x|oxoxxx"
+  },
+  "CEO": {
+   "pass": 5,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|ooxxxo|x|xxxoxo"
+  },
+  "CII": {
+   "pass": 5,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|ooxxxo|x|xxxoxo"
+  },
+  "CTG": {
+   "pass": 11,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|oooooo|x|oxoooo"
+  },
+  "DCM": {
+   "pass": 3,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xoxxxx|x|xooxxx"
+  },
+  "DGC": {
+   "pass": 0,
+   "total": 5,
+   "warn": 0,
+   "code": "x|---|xx--x-|x|------"
+  },
+  "DPR": {
+   "pass": 0,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxxxxx|x|xxxxxx"
+  },
+  "DXG": {
+   "pass": 6,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|oxxxxo|x|oxxooo"
+  },
+  "EIB": {
+   "pass": 1,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxxxxx|o|xxxxxx"
+  },
+  "FPT": {
+   "pass": 2,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|ooxxxx|x|xxxxxx"
+  },
+  "GAS": {
+   "pass": 0,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxxxxx|x|xxxxxx"
+  },
+  "GMD": {
+   "pass": 9,
+   "total": 14,
+   "warn": 0,
+   "code": "o|---|ooooxx|x|oooxxo"
+  },
+  "GVR": {
+   "pass": 4,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxooxx|x|oxoxxx"
+  },
+  "HCM": {
+   "pass": 5,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|ooxxxo|x|oxxoxx"
+  },
+  "HPG": {
+   "pass": 11,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|ooooxo|o|oxoooo"
+  },
+  "KBC": {
+   "pass": 3,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|oxxxxx|x|xxoxxo"
+  },
+  "LPB": {
+   "pass": 3,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxxoox|x|oxxxxx"
+  },
+  "MBB": {
+   "pass": 6,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|oxxxxo|x|oxxooo"
+  },
+  "MBS": {
+   "pass": 1,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|oxxxxx|x|xxxxxx"
+  },
+  "MSB": {
+   "pass": 6,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|oooxxx|x|xoxxoo"
+  },
+  "PLX": {
+   "pass": 0,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxxxxx|x|xxxxxx"
+  },
+  "PVD": {
+   "pass": 1,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxxxxx|o|xxxxxx"
+  },
+  "PVS": {
+   "pass": 1,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxoxxx|x|xxxxxx"
+  },
+  "SHB": {
+   "pass": 8,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxoooo|x|ooxoox"
+  },
+  "SHS": {
+   "pass": 4,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxxxxo|o|xxxoox"
+  },
+  "SSI": {
+   "pass": 3,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|oxxxxx|x|oxoxxx"
+  },
+  "STB": {
+   "pass": 0,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxxxxx|x|xxxxxx"
+  },
+  "SZC": {
+   "pass": 0,
+   "total": 13,
+   "warn": 0,
+   "code": "x|---|xxxxxx|x|xxxxx-"
+  },
+  "TCB": {
+   "pass": 7,
+   "total": 14,
+   "warn": 0,
+   "code": "o|---|ooxoxx|x|oxoxxo"
+  },
+  "TCH": {
+   "pass": 4,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|oxxxxx|x|oxoxxo"
+  },
+  "TPB": {
+   "pass": 10,
+   "total": 14,
+   "warn": 0,
+   "code": "o|---|oxoooo|x|ooxoox"
+  },
+  "VCB": {
+   "pass": 2,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxoxxx|x|xxxxox"
+  },
+  "VCI": {
+   "pass": 0,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxxxxx|x|xxxxxx"
+  },
+  "VDS": {
+   "pass": 2,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|ooxxxx|x|xxxxxx"
+  },
+  "VIB": {
+   "pass": 9,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|oooxxo|x|ooxooo"
+  },
+  "VIX": {
+   "pass": 0,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|xxxxxx|x|xxxxxx"
+  },
+  "VPB": {
+   "pass": 8,
+   "total": 14,
+   "warn": 0,
+   "code": "x|---|oooxxx|x|oooxoo"
+  }
+ }
+}
